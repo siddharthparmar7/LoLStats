@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/LoLStats/static/css/main.ab9654ab.chunk.css",
+    "main.js": "/LoLStats/static/js/main.e150b06f.chunk.js",
+    "main.js.map": "/LoLStats/static/js/main.e150b06f.chunk.js.map",
+    "runtime~main.js": "/LoLStats/static/js/runtime~main.eb826c9f.js",
+    "runtime~main.js.map": "/LoLStats/static/js/runtime~main.eb826c9f.js.map",
+    "static/js/2.737cc4b1.chunk.js": "/LoLStats/static/js/2.737cc4b1.chunk.js",
+    "static/js/2.737cc4b1.chunk.js.map": "/LoLStats/static/js/2.737cc4b1.chunk.js.map",
+    "index.html": "/LoLStats/index.html",
+    "precache-manifest.df58141f78d8c896ea901d6aa440629f.js": "/LoLStats/precache-manifest.df58141f78d8c896ea901d6aa440629f.js",
+    "service-worker.js": "/LoLStats/service-worker.js",
+    "static/css/main.ab9654ab.chunk.css.map": "/LoLStats/static/css/main.ab9654ab.chunk.css.map",
+    "static/media/loading.gif": "/LoLStats/static/media/loading.fcd8d05c.gif"
+  }
+}
