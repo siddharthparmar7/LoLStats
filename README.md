@@ -2,6 +2,15 @@
 
 > A Full-Stack Application that shows your stats of summoners.
 
+## Hosting Links
+
+### Client
+[React App](https://siddharthparmar7.github.io/LoLStats/)
+
+### Server
+[Node App](https://nameless-thicket-73875.herokuapp.com/summoner/aaa)
+`Note: summoner name = aaa`
+
 ## Installation
 
 ### Client
