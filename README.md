@@ -1,6 +1,6 @@
 # League of Legends Stats App
 
-> A Full-Stack Application that shows your stats of summoners.
+> A Full-Stack Application that shows stats of summoners.
 
 ## Hosting Links
 
