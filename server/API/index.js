@@ -1,5 +1,5 @@
 require('dotenv').config()
-process.env.LEAGUE_API_PLATFORM_ID = 'euw1'
+process.env.LEAGUE_API_PLATFORM_ID = 'na1'
 
 const LeagueJS = require('leaguejs')
 const leagueJs = new LeagueJS(process.env.RIOT_API_KEY)

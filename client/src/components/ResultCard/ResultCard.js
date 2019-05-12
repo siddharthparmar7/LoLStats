@@ -3,8 +3,8 @@ import moment from 'moment'
 import styles from './styles'
 
 const ResultCard = ({ summoner, matchStat }) => {
-  const conatinerColor = matchStat.summonerWin ? styles.victory : styles.defeat
-  const containerStyles = { ...styles.container, ...conatinerColor }
+  const containerColor = matchStat.summonerWin ? styles.victory : styles.defeat
+  const containerStyles = { ...styles.container, ...containerColor }
   return (
     <div style={containerStyles}>
       <div style={styles.player}>
@@ -37,7 +37,7 @@ const ResultCard = ({ summoner, matchStat }) => {
             <li>
               <img
                 style={styles.participantImg}
-                src={`http://ddragon.leagueoflegends.com/cdn/6.3.1/img/profileicon/${
+                src={`http://ddragon.leagueoflegends.com/cdn/9.7.1/img/profileicon/${
                   participant.player.profileIcon
                 }.png`}
                 alt="participant pic"
